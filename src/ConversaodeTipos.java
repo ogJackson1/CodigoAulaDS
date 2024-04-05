@@ -13,9 +13,9 @@ public class ConversaodeTipos {
 
         int z = (int) y;//converte o valor  de ponto flutuante x para um inteiro e armazena o resultado na variavel z
 
-        String s2 = String.valueOf(v);
+        String s2 = String.valueOf(v); // converte o valor inteiro v para uma String e armazena o resultado na variavel s2 
 
-        System.out.println(s2 + w + z);
+        System.out.println(s2 + w + z); // junta as String s2, w e z e exibi o resultado no console
 
 
     }
