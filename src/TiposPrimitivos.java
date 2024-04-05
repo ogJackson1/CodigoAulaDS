@@ -1,5 +1,4 @@
 public class TiposPrimitivos {
-
     public static void main(String[] args){
         char sexo = 'f';
         byte idade = 89;
@@ -18,5 +17,3 @@ public class TiposPrimitivos {
 
     }
 }
-
-
