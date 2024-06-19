@@ -1,4 +1,4 @@
-mport  javax.swing.*;
+import  javax.swing.*;
 public class IfComElseAninhado {
     public static void main(String[] args) {
         String aux = JOptionPane.showInputDialog("Fornece o numero mes: ");
